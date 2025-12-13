@@ -7,6 +7,7 @@ public class IntegerInput {
         System.out.println("enter the integer value ...");
         int num = kb.nextInt();
         System.out.println("user enter value is "+num);
+        kb.close();
     }
 
     
