@@ -6,8 +6,17 @@ public class Main {
 
 // calling the function of abtruct class. ...
 
- IT x = new IT();
-x.syllabus();
-x.Learn();
-    }
+    // IT x = new IT();
+    // x.syllabus();
+    // x.Learn();
+
+    //  Employee e = new Employee();
+    //     e.printInfo();
+
+    // Create the object of derived class 
+
+
+
+        
+    }   
 }
