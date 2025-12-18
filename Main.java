@@ -16,7 +16,29 @@ public class Main {
     // Create the object of derived class 
 
 
+     // create the object of car class .
+    //  Car c = new Car();
+    //  c.drive();
 
-        
+    // create the FriendGame class object..
+
+    FriendGame fg = new FriendGame();
+    fg.method1();
+    fg.method2();
+    fg.method3();
+
+    // create objects of animal extends class ...
+
+    // Animal a;
+
+    // a = new Dog();
+    // a.sound();
+
+    // a = new Cat();
+    // a.sound();
+
+    // a = new Cow();
+    // a.sound(); 
+
     }   
 }
