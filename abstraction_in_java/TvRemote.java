@@ -1,6 +1,6 @@
 package abstraction_in_java;
 
-// create the abstract class
+// create the abstract class for study
 abstract class TV {
     // create the constructor in class
     TV(){
