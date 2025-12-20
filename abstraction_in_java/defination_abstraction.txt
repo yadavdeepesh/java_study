@@ -16,3 +16,14 @@ Java provides two ways to implement abstraction, which are listed below:
 
 Real-Life Example of Abstraction
     The television remote control is the best example of abstraction. It simplifies the interaction with a TV by hiding all the complex technology. We don't need to understand how the TV internally works; we just need to press the button to change the channel or adjust the volume.
+
+Abstract class
+An abstract class is a class that cannot be instantiated and may contain abstract methods (methods without body) as well as concrete methods (with implementation).
+
+In shape example, a base type Shape has common properties like color and size. Specific shapes—Circle, Square, Triangle—inherit from Shape and may have unique properties or behaviors. For instance, some shapes can be flipped, and each shape calculates its area differently, illustrating both shared features and individual differences.
+
+Abstract Class in Java
+Abstract Classes and methods1
+Example:
+
+This program defines an abstract class Shape with an abstract method area() and a concrete method getColor(), demonstrating partial abstraction. It shows how an abstract class can have constructors and both implemented and unimplemented methods.
