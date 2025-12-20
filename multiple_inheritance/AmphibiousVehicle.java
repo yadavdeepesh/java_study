@@ -1,0 +1,17 @@
+package multiple_inheritance;
+
+interface LandVehicle {
+  default void landInfo() {
+        System.out.println("This is a LandVehicle");
+    }
+}
+interface WaterVehicle{
+     default void waterInfo() {
+        System.out.println("This is a WaterVehicle");
+    }
+}
+class AmphibiousVehicle implements LandVehicle,WaterVehicle{
+     AmphibiousVehicle() {
+        System.out.println("This is an AmphibiousVehicle");
+    }
+}
