@@ -7,8 +7,8 @@ public class CreatureMain {
       h.No_Of_legs();
 
     // Creating object of above class in  main
-    Elephant e = new Elephant();
-    e.No_Of_legs();
-    
+      Elephant e = new Elephant();
+        e.No_Of_legs();
+
      }
 }
