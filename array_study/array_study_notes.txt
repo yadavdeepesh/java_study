@@ -1,0 +1,5 @@
+Benefits of using contigous memory with array
+
+1. Efficient index Based Access (O(1))
+2. Optimized for Cache Performance 
+3. Easier to manage memory

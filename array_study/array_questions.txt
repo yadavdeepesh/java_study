@@ -1,0 +1,4 @@
+10 questions practies
+
+1. find the largest element in an array.
+2. reverse the array.
