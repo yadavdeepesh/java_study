@@ -16,10 +16,10 @@ class Parent {
 class Child extends Parent {
 
     // override show() of Parent
-    void show()
-    {
-        System.out.println("Child");
-    }
+    // void show()
+    // {
+    //     System.out.println("Child");
+    // }
 }
 
 public class GFG {
