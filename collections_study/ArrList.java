@@ -1,4 +1,4 @@
-package collection;
+package collections_study;
 
 import java.util.*;
 
