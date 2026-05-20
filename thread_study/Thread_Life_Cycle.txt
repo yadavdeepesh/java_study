@@ -1,0 +1,20 @@
+Thread Life Cycle
+
+A thread has different states:
+
+    NEW
+    RUNNABLE
+    RUNNING
+    WAITING
+    TERMINATED
+
+
+Where Threading is Used in Real Projects?
+Banking systems
+Web servers
+Android apps
+Gaming
+Chat applications
+File upload/download
+APIs
+Spring Boot applications
